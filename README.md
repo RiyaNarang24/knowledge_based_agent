@@ -37,6 +37,11 @@ To design a simple AI reasoning system that:
 3. If yes → that conclusion is inferred.
 4. If not → similar matches are shown.
 
+## License
+© 2026 Ria Narang. All rights reserved.
+Unauthorized copying or use is prohibited.
+
+
 ---
 
 ## ▶️ How to Run
